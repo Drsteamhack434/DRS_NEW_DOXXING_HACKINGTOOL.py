@@ -113,3 +113,6 @@ Ejecutar el script con :
 ```bash
 Python DRS_HackingTools.py
 ```
+
+<img width="655" height="482" alt="image" src="https://github.com/user-attachments/assets/ed39617a-3066-4ce5-8c8c-d75ddf1f18d6" />
+
