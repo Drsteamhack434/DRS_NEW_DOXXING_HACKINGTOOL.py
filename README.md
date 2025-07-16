@@ -1,4 +1,4 @@
-# OSINT Compatible con Termux y Replit
+# OSINT Drs - Compatible con Termux y Replit
 
 Este programa es una herramienta de OSINT (Open Source Intelligence) que permite obtener información pública relacionada con IPs, números telefónicos, usuarios en redes sociales y datos WHOIS de dominios. Está diseñada para ser compatible y funcionar correctamente en ambientes como Termux (Android) y Replit (entornos web de desarrollo).
 
@@ -106,8 +106,10 @@ Tras cada acción, espera que el usuario presione Enter para continuar, permitie
 pip install requests phonenumbers python-whois
 ```
 
+---
+
 ## Uso
 Ejecutar el script con : 
 ```bash
-Python 
+Python DRS_HackingTools.py
 ```
