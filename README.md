@@ -100,19 +100,22 @@ Tras cada acción, espera que el usuario presione Enter para continuar, permitie
 
 ---
 
-## Instalación rápida de dependencias
+## ⚙️ Instalación
 
 ```bash
+pkg update && pkg upgrade -y
+
+pkg install python git -y
+
+git clone https://github.com/AvastrOficial/DRS_NEW_DOXXING_HACKINGTOOL.git
+
+cd DRS_NEW_DOXXING_HACKINGTOOL
+
 pip install requests phonenumbers python-whois
+
+chmod +x DRS_HackingTools.py
+
+python DRS_HackingTools.py
 ```
-
----
-
-## Uso
-Ejecutar el script con : 
-```bash
-Python DRS_HackingTools.py
-```
-
 <img width="655" height="482" alt="image" src="https://github.com/user-attachments/assets/ed39617a-3066-4ce5-8c8c-d75ddf1f18d6" />
 
