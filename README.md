@@ -107,7 +107,7 @@ pkg update && pkg upgrade -y
 
 pkg install python git -y
 
-git clone [/](https://github.com/Drsteamhack434)DRS_NEW_DOXXING_HACKINGTOOL.git
+git clone https://github.com/Drsteamhack434/DRS_NEW_DOXXING_HACKINGTOOL.git
 
 cd DRS_NEW_DOXXING_HACKINGTOOL
 
